@@ -10,7 +10,7 @@ whether it is getting cleaner (2000 to 2025).
 - `electricity_generation_report.docx`: project report
 - `data/release_generation_yearly_global.csv`: dataset
   
-(data source: (https://ember-energy.org/data/[url](https://ember-energy.org/data/)))
+(data source: (ember-energy.org/data [url](https://ember-energy.org/data/)))
 
 ## What I did
 - Filled missing values first (fillna, recalculation, capacity estimate)
